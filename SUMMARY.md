@@ -22,3 +22,9 @@
   * [1.5 结果正确≠行为正确](01_puzzle/1.5_result_vs_behavior.md)
   * [1.6 概率工具箱](01_puzzle/1.6_probability_toolkit.md)
   * [本章小结](01_puzzle/summary.md)
+
+* [第2章 稀缺的硬通货：Token与语义坐标](02_token/README.md)
+  * [2.1 Token的双重面孔](02_token/2.1_token_two_faces.md)
+  * [2.2 值不值？AI任务的经济考量](02_token/2.2_economic_consideration.md)
+  * [2.3 Embedding：AI世界的"地理坐标"](02_token/2.3_embedding_coordinates.md)
+  * [本章小结](02_token/summary.md)
