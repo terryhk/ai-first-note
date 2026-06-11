@@ -28,3 +28,11 @@
   * [2.2 值不值？AI任务的经济考量](02_token/2.2_economic_consideration.md)
   * [2.3 Embedding：AI世界的"地理坐标"](02_token/2.3_embedding_coordinates.md)
   * [本章小结](02_token/summary.md)
+
+* [第3章 契约精神：如何写一份无法违约的"交付规格书"](03_contract/README.md)
+  * [3.1 Prompt的第一性](03_contract/3.1_contract_first_principle.md)
+  * [3.2 4S原则](03_contract/3.2_4s_principles.md)
+  * [3.3 思维链：合同的"分期付款"机制](03_contract/3.3_chain_of_thought.md)
+  * [3.4 Few-shot示例驱动](03_contract/3.4_few_shot_examples.md)
+  * [3.5 三层架构：Spec → Verifier → Environment](03_contract/3.5_three_layer_architecture.md)
+  * [本章小结](03_contract/summary.md)
