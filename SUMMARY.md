@@ -36,3 +36,11 @@
   * [3.4 Few-shot示例驱动](03_contract/3.4_few_shot_examples.md)
   * [3.5 三层架构：Spec → Verifier → Environment](03_contract/3.5_three_layer_architecture.md)
   * [本章小结](03_contract/summary.md)
+
+* [第4章 市场的进化：从赤手空拳到工具外挂](04_market/README.md)
+  * [4.1 六个方案能力对比](04_market/4.1-six-solutions-comparison.md)
+  * [4.2 Function Calling：签发授权委托书](04_market/4.2-function-calling.md)
+  * [4.3 MCP：AI世界的统一接口](04_market/4.3-mcp.md)
+  * [4.3.1 延伸阅读：MCP vs CLI](04_market/4.3.1-mcp-vs-cli.md)
+  * [4.4 ReAct与PAL：Agent两大核心技术](04_market/4.4-react-pal.md)
+  * [4.5 概率选型决策](04_market/4.5-probabilistic-selection.md)
