@@ -51,3 +51,11 @@
   * [5.3 迭代改进的循环](05_governance/5.3-iteration-loop.md)
   * [5.4 自动指标与人评的正确用法](05_governance/5.4-metrics-vs-human.md)
   * [延伸阅读：什么是贝叶斯推断](05_governance/5.5-bayesian-inference.md)
+
+* [第6章 实践1：告别"记得看过但找不到"——零代码搭一个AI知识库](06_personal_knowledge_base/README.md)
+  * [6.1 为什么散落的知识没有复利？](06_personal_knowledge_base/6.1-scaling-inefficiency.md)
+  * [6.2 RAG的零代码搭建思路](06_personal_knowledge_base/6.2-rag-zero-code.md)
+  * [6.3 知识连接×AI：跨学科的顿悟时刻](06_personal_knowledge_base/6.3-knowledge-connection.md)
+  * [6.4 每周知识整理工作流](06_personal_knowledge_base/6.4-weekly-workflow.md)
+  * [6.5 概率工具箱与经济账](06_personal_knowledge_base/6.5-probability-toolbox.md)
+  * [6.6 可复用模板](06_personal_knowledge_base/6.6-templates.md)
