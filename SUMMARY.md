@@ -52,6 +52,11 @@
   * [5.4 自动指标与人评的正确用法](05_governance/5.4-metrics-vs-human.md)
   * [延伸阅读：什么是贝叶斯推断](05_governance/5.5-bayesian-inference.md)
 
+## 第二部分：AI大模型的实践笔记
+
+* [第二部分概述](part2_practice/README.md)
+
+
 * [第6章 实践1：告别"记得看过但找不到"——零代码搭一个AI知识库](06_personal_knowledge_base/README.md)
   * [6.1 为什么散落的知识没有复利？](06_personal_knowledge_base/6.1-scaling-inefficiency.md)
   * [6.2 RAG的零代码搭建思路](06_personal_knowledge_base/6.2-rag-zero-code.md)
