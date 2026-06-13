@@ -44,3 +44,10 @@
   * [4.3.1 延伸阅读：MCP vs CLI](04_market/4.3.1-mcp-vs-cli.md)
   * [4.4 ReAct与PAL：Agent两大核心技术](04_market/4.4-react-pal.md)
   * [4.5 概率选型决策](04_market/4.5-probabilistic-selection.md)
+
+* [第5章 技术世界的宏观调控：如何成为合格的贝叶斯裁判](05_governance/README.md)
+  * [5.1 概率思维的核心方程](05_governance/5.1-core-equations.md)
+  * [5.2 评估的本质：贝叶斯更新](05_governance/5.2-bayesian-update.md)
+  * [5.3 迭代改进的循环](05_governance/5.3-iteration-loop.md)
+  * [5.4 自动指标与人评的正确用法](05_governance/5.4-metrics-vs-human.md)
+  * [延伸阅读：什么是贝叶斯推断](05_governance/5.5-bayesian-inference.md)
