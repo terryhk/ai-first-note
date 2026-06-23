@@ -80,3 +80,10 @@
   * [8.4 你的第一个Agent任务](08_agent_automation/8.4_first_agent_task.md)
   * [8.5 人在环](08_agent_automation/8.5_human_in_the_loop.md)
   * [本章小结](08_agent_automation/summary.md)
+
+* [后记：焦虑消失之后，你的新起点](09_epilogue/README.md)
+
+---
+
+* [附录A：核心词汇表](appendix_glossary/README.md)
+* [附录B：AWS AIF-C01 Core Knowledge Quick Reference](appendix_aws_aif/README.md)
