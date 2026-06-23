@@ -64,3 +64,11 @@
   * [6.4 每周知识整理工作流](06_personal_knowledge_base/6.4-weekly-workflow.md)
   * [6.5 概率工具箱与经济账](06_personal_knowledge_base/6.5-probability-toolbox.md)
   * [6.6 可复用模板](06_personal_knowledge_base/6.6-templates.md)
+
+* [第7章 实践3：用AI赋能产品工作——周报、规范、分析与日常提效](07_product_work/README.md)
+  * [7.1 产品经理的AI武器库概览](07_product_work/7.1_ai_weapon_overview.md)
+  * [7.2 周报自动化的四步法](07_product_work/7.2_weekly_report_automation.md)
+  * [7.3 规范对比的结构化方法](07_product_work/7.3_spec_comparison.md)
+  * [7.4 产品运营分析](07_product_work/7.4_operations_analysis.md)
+  * [7.5 沟通提效](07_product_work/7.5_communication_efficiency.md)
+  * [本章小结](07_product_work/summary.md)
