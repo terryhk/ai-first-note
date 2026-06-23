@@ -65,7 +65,7 @@
   * [6.5 概率工具箱与经济账](06_personal_knowledge_base/6.5-probability-toolbox.md)
   * [6.6 可复用模板](06_personal_knowledge_base/6.6-templates.md)
 
-* [第7章 实践3：用AI赋能产品工作——周报、规范、分析与日常提效](07_product_work/README.md)
+* [第7章 实践2：用AI赋能产品工作——周报、规范、分析与日常提效](07_product_work/README.md)
   * [7.1 产品经理的AI武器库概览](07_product_work/7.1_ai_weapon_overview.md)
   * [7.2 周报自动化的四步法](07_product_work/7.2_weekly_report_automation.md)
   * [7.3 规范对比的结构化方法](07_product_work/7.3_spec_comparison.md)
@@ -73,7 +73,7 @@
   * [7.5 沟通提效](07_product_work/7.5_communication_efficiency.md)
   * [本章小结](07_product_work/summary.md)
 
-* [第8章 实践6：用Agent自动化重复任务——从ReAct到放手](08_agent_automation/README.md)
+* [第8章 实践3：用Agent自动化重复任务——从ReAct到放手](08_agent_automation/README.md)
   * [8.1 Skill：Agent的"技能包"](08_agent_automation/8.1_skill.md)
   * [8.2 Harness：Agent的"运行时容器"](08_agent_automation/8.2_harness.md)
   * [8.3 ReAct：Agent的"大脑"](08_agent_automation/8.3_react.md)
