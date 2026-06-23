@@ -72,3 +72,11 @@
   * [7.4 产品运营分析](07_product_work/7.4_operations_analysis.md)
   * [7.5 沟通提效](07_product_work/7.5_communication_efficiency.md)
   * [本章小结](07_product_work/summary.md)
+
+* [第8章 实践6：用Agent自动化重复任务——从ReAct到放手](08_agent_automation/README.md)
+  * [8.1 Skill：Agent的"技能包"](08_agent_automation/8.1_skill.md)
+  * [8.2 Harness：Agent的"运行时容器"](08_agent_automation/8.2_harness.md)
+  * [8.3 ReAct：Agent的"大脑"](08_agent_automation/8.3_react.md)
+  * [8.4 你的第一个Agent任务](08_agent_automation/8.4_first_agent_task.md)
+  * [8.5 人在环](08_agent_automation/8.5_human_in_the_loop.md)
+  * [本章小结](08_agent_automation/summary.md)
