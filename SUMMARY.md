@@ -81,7 +81,9 @@
   * [8.5 人在环](08_agent_automation/8.5_human_in_the_loop.md)
   * [本章小结](08_agent_automation/summary.md)
 
-* [后记：焦虑消失之后，你的新起点](09_epilogue/README.md)
+* [第9章 实践4：LY Plan实训——从会用AI到让AI替你干活](09_ly_plan/README.md)
+
+* [后记：焦虑消失之后，你的新起点](10_epilogue/README.md)
 
 ---
 
