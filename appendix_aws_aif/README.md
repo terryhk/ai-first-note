@@ -2,6 +2,41 @@
 
 > 本附录基于我备考 AWS Certified AI Practitioner (AIF-C01) 的学习笔记整理。AIF-C01 是 AWS 于2024年推出的AI从业者认证，覆盖 Generative AI 基础、Prompt Engineering、AWS AI/ML 服务、Responsible AI 与安全治理四大领域。我在2025年3月以 890/1000 通过考试——这个分数不算特别高，但足以验证：如果理解了本书前8章的核心概念，AIF-C01 的大量知识点其实是你已经掌握的知识在 AWS 产品上的映射。
 
+---
+
+### B.0 全书核心概念与 AWS AIF-C01 考试域映射矩阵 (Domain Mapping)
+
+```mermaid
+flowchart TD
+    subgraph AIF["AWS AIF-C01 四大知识域"]
+        D1["Domain 1: AI/ML 基础原理 (20%)"]
+        D2["Domain 2: 生成式 AI 核心技术 (24%)"]
+        D3["Domain 3: 基模型落地与选型 (28%)"]
+        D4["Domain 4: 负责任的 AI 与治理 (28%)"]
+    end
+
+    subgraph Book["本书对应方法论模块"]
+        B1["第0章 基本公理 / 第1章 概率元认知 / 第5章 控制方程"]
+        B2["第2章 Token资产 / 第6章 混合RAG向量检索"]
+        B3["第3章 4S契约 / 第4章 六方案选型 / 第8章 Agent三元组"]
+        B4["第1章 幽灵防线 / 第3章 防护栏 / 第5章 双轨评测 / 第8章 HITL卡点"]
+    end
+
+    D1 <==> B1
+    D2 <==> B2
+    D3 <==> B3
+    D4 <==> B4
+```
+
+| 官方考试领域 (Exam Domain) | 考试权重 | AWS 核心考察点与核心考点服务 | 本书底层方法论与对应章节 |
+| :--- | :---: | :--- | :--- |
+| **Domain 1: Fundamentals of AI and ML**<br>AI与机器学习基础 | 20% | • 监督/无监督/强化学习/RLHF机制<br>• 过拟合/欠拟合识别与混淆矩阵指标 (Precision/Recall/F1)<br>• SageMaker 核心全生命周期服务 | • [第0章 认知重塑](../00_axioms/README.md)（稀缺性与资产协同公理）<br>• [第1章 概率思维](../01_puzzle/README.md)（概率采样机制与非确定性）<br>• [第5章 结果思维](../05_governance/README.md)（行为×概率=结果、DMAIC 循环） |
+| **Domain 2: Fundamentals of Generative AI**<br>生成式 AI 底层核心 | 24% | • Foundation Models & Transformers 自注意力机制<br>• Tokenization 分词与上下文窗口预算约束<br>• Embedding 语义向量化与向量数据库索引 | • [第2章 规格化思维](../02_token/README.md)（Token 双重面孔、上下文预算与经济学 ROI）<br>• [第6章 个人知识库](../06_personal_knowledge_base/README.md)（密集向量与稀疏 BM25 混合检索） |
+| **Domain 3: Applications of Foundation Models**<br>基模型应用与选型落地 | 28% | • Prompt Engineering (Zero/Few/CoT/Negative Prompting)<br>• 架构选型阶梯：Prompt vs RAG vs Fine-tuning vs Pre-training<br>• Amazon Bedrock 模型调用、Action Groups 与 Bedrock Agents | • [第3章 契约精神](../03_contract/README.md)（4S 原则、思维链分期付款、Karpathy 三层架构）<br>• [第4章 方案选型](../04_market/README.md)（六方案商业图景、Function Calling、MCP 协议）<br>• [第7章 产品工作流](../07_product_work/README.md) & [第8章 Agent](../08_agent_automation/README.md)（Skill/Harness/ReAct） |
+| **Domain 4: Guidelines for Responsible AI**<br>负责任的 AI、安全与治理 | 28% | • 幻觉、偏差 (Bias)、有害内容 (Toxicity) 治理<br>• Guardrails for Bedrock 护栏配置与 PII 隐私脱敏<br>• 提示词注入攻击防御与 Model Evaluation (ROUGE/BLEU)<br>• 人在环 (Human-in-the-Loop) 审核 (Amazon A2I) | • [第1章 幽灵隐喻](../01_puzzle/README.md)（事实性幻觉根源）<br>• [第3章 契约防护](../03_contract/README.md)（负向条款与注入防护）<br>• [第5章 结果思维](../05_governance/README.md)（五维根因诊断、双轨评测流水线）<br>• [第8章 Agent自动化](../08_agent_automation/README.md)（三级 HITL 安全卡点） |
+
+---
+
 ### B.1 Fundamentals — 生成式AI基础
 
 **Generative AI (GenAI)** — 深度学习的子集，能生成与训练数据相似的新数据（文本、图像、音频、代码、视频等）。→ 核心思想回扣第1章：AI不是检索答案，是基于概率生成
