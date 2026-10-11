@@ -56,7 +56,6 @@
 
 * [第二部分概述](part2_practice/README.md)
 
-
 * [第6章 实践1：告别"记得看过但找不到"——零代码搭一个AI知识库](06_personal_knowledge_base/README.md)
   * [6.1 为什么散落的知识没有复利？](06_personal_knowledge_base/6.1-scaling-inefficiency.md)
   * [6.2 RAG的零代码搭建思路](06_personal_knowledge_base/6.2-rag-zero-code.md)
@@ -82,6 +81,12 @@
   * [本章小结](08_agent_automation/summary.md)
 
 * [第9章 实践4：LY Plan实训——从会用AI到让AI替你干活](09_ly_plan/README.md)
+  * [9.1 看趋势：产品经理的宏观视野](09_ly_plan/README.md#91-看趋势产品经理的宏观视野)
+  * [9.2 定义价值：产品思维是第一性原理](09_ly_plan/README.md#92-定义价值产品思维是第一性原理)
+  * [9.3 写需求：把产品意图变成AI听得懂的契约](09_ly_plan/README.md#93-写需求把产品意图变成ai听得懂的契约)
+  * [9.4 建流程：企业级AI研发的产品化交付](09_ly_plan/README.md#94-建流程企业级ai研发的产品化交付)
+  * [9.5 看行业：跨界视野与行业映射](09_ly_plan/README.md#95-看行业跨界视野与行业映射)
+  * [本章小结与落地行动清单](09_ly_plan/README.md#本章小结)
 
 * [后记：焦虑消失之后，你的新起点](10_epilogue/README.md)
 
