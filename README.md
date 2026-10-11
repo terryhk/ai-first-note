@@ -7,7 +7,7 @@
 ## 封面
 
 <p align="center">
-  <img src="cover.jpg" alt="封面" width="300"/>
+  <img src="cover.jpg" alt="封面" width="360"/>
   <br/>
   <em>《AI大模型学习实践笔记》封面</em>
 </p>
@@ -84,7 +84,7 @@ flowchart TD
 ## 背面
 
 <p align="center">
-  <img src="back-cover.jpg" alt="背面" width="300"/>
+  <img src="back-cover.jpg" alt="背面" width="360"/>
   <br/>
   <em>《AI大模型学习实践笔记》背面</em>
 </p>
